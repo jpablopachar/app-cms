@@ -1,7 +1,5 @@
 const PublicRoutes = {
-  LOGIN: '/login',
-  SIGN_UP: '/sign-up',
-  PROFILE: '/profile/:username',
+  CONTACT: '/contact',
   NOT_FOUND: '/not-found'
 }
 
